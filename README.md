@@ -8,3 +8,23 @@
 * 생년월일: 2000-03-31
 * 이메일: hangloss0331@gmail.com
 * 깃허브: github.com/HanGloss
+
+# 💻 Skills
+**Back-End**
+> * Python
+>   - Experiences = 4년
+>   - 다양한 라이브러리를 활용해 원하는 형태의 프로그램 구현 가능
+
+**Library**
+> * PyTorch
+
+# 📔 Educations
+
+**동양미래대학교**  / 2022-03 ~ 2025-02
+> 인공지능소프트웨어학과 전문학사 졸업  
+> 학점 4.01/4.5
+
+# 📜 Cretification
+
+* **1종보통운전면허** (`2019.10)
+* **ADsP** (`2024.11)
