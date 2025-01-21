@@ -17,6 +17,7 @@
 
 **Library**
 > * PyTorch
+> * TensorFlow
 
 # 📔 Educations
 
