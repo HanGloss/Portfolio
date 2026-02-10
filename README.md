@@ -49,4 +49,5 @@
 
 # 🗂️ Projects
 > 1. [서울시 따릉이 배치 최적화를 위한 인구 유동성 및 따릉이 배치 현황 분석](https://github.com/HanGloss/seoul-bike)
-> 2.
+> 2. [AI 기반 보컬 코칭 프로그램](https://github.com/HanGloss/ai_vocal_training)
+> 3. [이사 견적 서비스 AI 모델 파이프라인](https://github.com/HanGloss/Isajjim-AI)
