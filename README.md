@@ -14,10 +14,21 @@
 > * Python
 >   - Experiences = 4년
 >   - 다양한 라이브러리를 활용해 원하는 형태의 프로그램 구현 가능
+>
+> * AI Modeling
+>   - Experiences = 4년
+>   - AI 모델을 구축하고 목적에 맞는 활용 가능
+>  
+> * Data Analysis
+>   - Experiences = 6년
+>   - 데이터를 분석하거나 증강하여 목적에 맞는 결과물을 산출해낼 수 있음
+
 
 **Library**
 > * PyTorch
 > * TensorFlow
+> * ultralytics
+> * openCV
 
 # 📔 Educations
 
@@ -26,7 +37,7 @@
 > 학점 4.01/4.5
 
 **강원대학교 춘천캠퍼스** / 2025-03 ~
-> 컴퓨터공학부 3학년 재학중
+> 컴퓨터공학부 4학년 재학중
 
 # 📜 Cretification
 
@@ -35,5 +46,4 @@
 
 # ⏲ Career
 > 동양미래대학교 컴퓨터공학부 근로장학생 / 2023-12 ~ 2024-11  
-> 갓포돈 역삼점 아르바이트 / 2021-11 ~ 2024-11
 
