@@ -57,9 +57,18 @@
 > 더존비앤씨티 인턴십 수료 / 2026-04 ~ 2026-06
 
 # 🗂️ Projects
+
 > 1. [데이터 분석을 통한 코로나와 서울시 지하철 유동성의 상관관계 분석(`2022)](https://github.com/HanGloss/data-analysis)
 > 2. [서울시 소음 공공 데이터를 활용한 비즈니스 아이디어 제안(`2023)](https://github.com/HanGloss/BigDataTrial)
 > 3. [서울시 따릉이 배치 최적화를 위한 인구 유동성 및 따릉이 배치 현황 분석(`2024)](https://github.com/HanGloss/seoul-bike)
 > 4. [AI 기반 보컬 코칭 프로그램(`2024)](https://github.com/HanGloss/ai_vocal_training)
 > 5. [이사 견적 서비스 AI 모델 파이프라인(`2026)](https://github.com/HanGloss/Isajjim-AI)
 > 6. [AI Agent 개발 역량 강화 플랫폼(`2026)](https://github.com/26-CloudAI/loa-main) 
+
+# 🏆Awards
+
+> 1. 최우수상, AI 신산업사업단, 깃허브 저장소 구축 경진대회 (`2022.11)
+> 2. 최우수상, 한국연구재단, ESG 아이디어 경진대회 최우수상 (`2022.08)
+> 3. 최우수상, AI 신산업사업단, 공공 빅데이터 활용 비즈니스 아이디어 경진대회 (`2023.06)
+> 4. 우수상, 동양미래대학교, KES2024 동양Expo 동아리작품전 (`2024.11)
+> 5. **대상, Google Cloud, 전국 AI Google Cloud 기반 융합 경진대회 (`2026.02)**
