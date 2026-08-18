@@ -63,7 +63,8 @@
 > 3. [서울시 따릉이 배치 최적화를 위한 인구 유동성 및 따릉이 배치 현황 분석(`2024)](https://github.com/HanGloss/seoul-bike)
 > 4. [AI 기반 보컬 코칭 프로그램(`2024)](https://github.com/HanGloss/ai_vocal_training)
 > 5. [이사 견적 서비스 AI 모델 파이프라인(`2026)](https://github.com/HanGloss/Isajjim-AI)
-> 6. [AI Agent 개발 역량 강화 플랫폼(`2026)](https://github.com/26-CloudAI/loa-main) 
+> 6. [더존비앤씨티 인턴십 결과물 웹사이트(`2026)](https://github.com/HanGloss/26_DZ_KNU_student_Internship)
+> 7. [AI Agent 개발 역량 강화 플랫폼(`2026)](https://github.com/26-CloudAI/loa-main)
 
 # 🏆Awards
 
