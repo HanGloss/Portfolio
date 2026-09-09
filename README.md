@@ -58,13 +58,13 @@
 
 # 🗂️ Projects
 
-> 1. [데이터 분석을 통한 코로나와 서울시 지하철 유동성의 상관관계 분석(`2022)](https://github.com/HanGloss/data-analysis)
-> 2. [서울시 소음 공공 데이터를 활용한 비즈니스 아이디어 제안(`2023)](https://github.com/HanGloss/BigDataTrial)
-> 3. [서울시 따릉이 배치 최적화를 위한 인구 유동성 및 따릉이 배치 현황 분석(`2024)](https://github.com/HanGloss/seoul-bike)
-> 4. [AI 기반 보컬 코칭 프로그램(`2024)](https://github.com/HanGloss/ai_vocal_training)
-> 5. [이사 견적 서비스 AI 모델 파이프라인(`2026)](https://github.com/HanGloss/Isajjim-AI)
-> 6. [더존비앤씨티 인턴십 결과물 웹사이트(`2026)](https://github.com/HanGloss/26_DZ_KNU_student_Internship)
-> 7. [AI Agent 개발 역량 강화 플랫폼(`2026)](https://github.com/26-CloudAI/loa-main)
+> 1. [데이터 분석을 통한 코로나와 서울시 지하철 유동성의 상관관계 분석(`2022)](https://github.com/HanGloss/data-analysis) (코로나/지하철 유동성 데이터 분석 및 시각화 담당 / 팀장)
+> 2. [서울시 소음 공공 데이터를 활용한 비즈니스 아이디어 제안(`2023)](https://github.com/HanGloss/BigDataTrial) (소음데이터 분석 및 시각화 담당 / 팀장)
+> 3. [서울시 따릉이 배치 최적화를 위한 인구 유동성 및 따릉이 배치 현황 분석(`2024)](https://github.com/HanGloss/seoul-bike) (따릉이 배치 분석 및 시각화)
+> 4. [AI 기반 보컬 코칭 프로그램(`2024)](https://github.com/HanGloss/ai_vocal_training) (음성 인식 및 수치 변환 AI 모델링 담당 / 팀원)
+> 5. [이사 견적 서비스 AI 모델 파이프라인(`2026)](https://github.com/HanGloss/Isajjim-AI) (이미지 분석 및 사물 인식, Segmentation, YOLO 파이프라인 구현 담당 / 팀원)
+> 6. [더존비앤씨티 인턴십 결과물 웹사이트(`2026)](https://github.com/HanGloss/26_DZ_KNU_student_Internship) (웹사이트 설계 ~ 배포)
+> 7. [AI Agent 개발 역량 강화 플랫폼(`2026)](https://github.com/26-CloudAI/loa-main) (강화학습 보스 AI 구현 담당 / 팀장)
 
 # 🏆Awards
 
@@ -72,4 +72,4 @@
 > 2. 최우수상, 한국연구재단, ESG 아이디어 경진대회 최우수상 (`2022.08)
 > 3. 최우수상, AI 신산업사업단, 공공 빅데이터 활용 비즈니스 아이디어 경진대회 (`2023.06)
 > 4. 우수상, 동양미래대학교, KES2024 동양Expo 동아리작품전 (`2024.11)
-> 5. **대상, Google Cloud, 전국 AI Google Cloud 기반 융합 경진대회 (`2026.02)**
+> 5. **대상, Google Cloud, 전국 AI Google Cloud 기반 융합 경진대회 (`2026.02)** 
